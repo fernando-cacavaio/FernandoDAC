@@ -13,7 +13,7 @@ This project is a front end application created with Vite, React.js with TypeScr
 ## Installation
 1. Clone the repository.
    ```sh
-   git clone https://github.com/fernando-cacavaio/FernandoApexa.git
+   git clone https://github.com/fernando-cacavaio/FernandoDAC.git
    
 2. Navigate to the project directory.
    ```sh
